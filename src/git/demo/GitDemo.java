@@ -15,6 +15,7 @@ public class GitDemo {
      */
     public static void main(String[] args) {
         System.out.println("Git tester");
+        System.out.println("Modifactiona for remote branch.");
     }
     
 }
